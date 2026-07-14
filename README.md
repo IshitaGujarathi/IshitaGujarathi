@@ -189,9 +189,9 @@ Building production-style full-stack applications end-to-end using Java, Spring 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishitagujarathi07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white)]((https://leetcode.com/u/Ishita_Gujarathi/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/ishitagujarathi07)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ishitagujarathi07)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ishitagujarathi1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ishitagujarathi07)
 
 </div>
