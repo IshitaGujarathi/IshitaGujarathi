@@ -198,48 +198,7 @@ Building production-style full-stack applications end-to-end using Java, Spring 
 
 ---
 
-## 🟣 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishitagujarathi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=ishitagujarathi07&theme=tokyonight&hide_border=true&background=0F0C29&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=C4B5FD" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitagujarathi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="49%"/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishitagujarathi07&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishitagujarathi07&theme=react-dark&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ishitagujarathi07/ishitagujarathi07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## 🟣 Current Focus
 
