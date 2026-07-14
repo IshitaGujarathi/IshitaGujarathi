@@ -9,7 +9,7 @@
 <br/>
 
 ![B.Tech Computer Engineering](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=0F0C29)
-![CGPA](https://img.shields.io/badge/CGPA-8.36%2F10-8B5CF6?style=flat-square&labelColor=0F0C29)
+![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-8B5CF6?style=flat-square&labelColor=0F0C29)
 ![Batch](https://img.shields.io/badge/Batch-2027-A78BFA?style=flat-square&labelColor=0F0C29)
 ![Location](https://img.shields.io/badge/📍-Shirpur,%20Maharashtra,%20India-7C3AED?style=flat-square&labelColor=0F0C29)
 
