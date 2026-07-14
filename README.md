@@ -215,9 +215,8 @@ current_focus:
     - Applied Generative AI in Software Engineering
   open_to:
     - Software Development Engineer (SDE) Roles
-    - Java Backend Developer Roles
-    - Full Stack Developer Roles
-    - DevOps Engineering Roles
+    - Java Backend Developer Role
+    - Java Full Stack Developer Roles
 ```
 
 ---
