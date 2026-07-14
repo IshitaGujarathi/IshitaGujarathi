@@ -38,7 +38,7 @@
 
 I'm **Ishita Gujarathi**, a final-year **B.Tech Computer Engineering** student engineering full-stack systems with a strong backend engineering core. My work is grounded in **Java**, **Spring Boot**, and **relational database design**, extended through **React.js** on the frontend and **RESTful API architecture** across the stack.
 
-I approach every build with a **product engineering mindset** — layered architecture, clean separation of concerns (Controller–Service–Repository), and maintainable, scalable code — while actively expanding into **cloud-native and DevOps practices** (AWS, Docker, CI/CD) and foundational **AI/ML and Generative AI concepts** to stay aligned with where modern software engineering is heading.
+I approach every build with a **product engineering mindset** — layered architecture, clean separation of concerns (Controller–Service–Repository), and maintainable, scalable code — while actively expanding into **cloud-native** (AWS, Docker) and foundational **AI/ML and Generative AI concepts** to stay aligned with where modern software engineering is heading.
 
 I'm someone who ships, documents, and iterates — treating every project like production software, not a classroom exercise.
 
