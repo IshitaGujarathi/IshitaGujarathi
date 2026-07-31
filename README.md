@@ -42,7 +42,7 @@ I approach every build with a **product engineering mindset** — layered archit
 
 I'm someone who ships, documents, and iterates — treating every project like production software, not a classroom exercise.
 
-**🎯 Open To:** Software Development Engineer (SDE) · Java Backend Developer · Full Stack Developer · DevOps Engineer — Internships & Full-Time 2027
+**🎯 Open To:** Software Development Engineer (SDE) · Java Backend Developer · Full Stack Developer  — Internships & Full-Time 2027
 
 ---
 
