@@ -120,7 +120,7 @@ A full-stack placement preparation platform built to help students organize inte
 | **Security** | Authentication & access control implemented with Spring Security |
 | **Impact** | Centralizes and streamlines placement readiness tracking for students |
 | **Repository** | [GitHub →](https://github.com/IshitaGujarathi/Placement-Preparation-Tracker--Careerforge) |
-| **Deployment** | Full-stack deployment-ready build | [Live Site →](https://placement-preparation-tracker-caree.vercel.app/login) |
+| **Deployment** | [Live Site →](https://placement-preparation-tracker-caree.vercel.app/login) |
 
 **Engineering Notes:** Backend built on Java, Spring Boot, and Spring Data JPA with Hibernate for ORM, exposing clean RESTful endpoints consumed by a responsive React.js frontend. Follows Object-Oriented Programming principles, layered architecture, and clean code practices to keep the system scalable and maintainable, with authentication handled via Spring Security.
 
