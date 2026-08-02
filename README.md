@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-gujarathi-370186302/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitagujarathi07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishgujarathi07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshitaGujarathi)
 
 <br/>
@@ -45,7 +45,6 @@ Beyond the stack I already ship in, I'm actively growing into **cloud-native and
 - Full Stack Developer Roles
 - Backend Developer Roles
 - Java Developer Roles
-- Open Source Collaboration
 
 ---
 
@@ -75,7 +74,7 @@ Beyond the stack I already ship in, I'm actively growing into **cloud-native and
 
 **Cloud / DevOps**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)(basics) ![Docker](https://skillicons.dev/icons?i=docker)(basics)
 
 </div>
 
@@ -120,8 +119,8 @@ A full-stack placement preparation platform built to help students organize inte
 | **Performance** | Efficient CRUD operations via JPA/Hibernate on optimized MySQL schemas |
 | **Security** | Authentication & access control implemented with Spring Security |
 | **Impact** | Centralizes and streamlines placement readiness tracking for students |
-| **Repository** | [GitHub →](https://github.com/IshitaGujarathi) |
-| **Deployment** | Full-stack deployment-ready build |
+| **Repository** | [GitHub →](https://github.com/IshitaGujarathi/Placement-Preparation-Tracker--Careerforge) |
+| **Deployment** | Full-stack deployment-ready build | [Live Site →](https://placement-preparation-tracker-caree.vercel.app/login) |
 
 **Engineering Notes:** Backend built on Java, Spring Boot, and Spring Data JPA with Hibernate for ORM, exposing clean RESTful endpoints consumed by a responsive React.js frontend. Follows Object-Oriented Programming principles, layered architecture, and clean code practices to keep the system scalable and maintainable, with authentication handled via Spring Security.
 
@@ -148,7 +147,7 @@ A responsive ecommerce frontend delivering a modern, streamlined shopping experi
 | **Security** | Client-side best practices for safe, stable UI interactions |
 | **Impact** | Delivers a smooth, modern shopping experience across devices |
 | **Repository** | [GitHub →](https://github.com/IshitaGujarathi/Ecommerce-Website) |
-| **Deployment** | [Live Site →](https://ecommerce-website-ashy-psi.vercel.app/) |
+| **Deployment** | [Live Site →]([https://ecommerce-website-ashy-psi.vercel.app/](https://ecommerce-website-ashy-psi.vercel.app/)) |
 
 **Engineering Notes:** Built with React and modern JavaScript, structured around reusable components for product listings and cart interactions. Styled with custom CSS for a clean, responsive interface, and deployed on Vercel for fast, reliable delivery.
 
@@ -257,9 +256,6 @@ Hands-on development experience gained through building and shipping full-stack 
 
 </div>
 
-> To activate this animation, add the `platane/snk` GitHub Action to a repository named `IshitaGujarathi/IshitaGujarathi` in your GitHub account.
-
----
 
 ## 🟣 Current Focus
 
@@ -290,7 +286,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-ishitagujarathi07%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitagujarathi07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ishgujarathi07%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishgujarathi07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-gujarathi-370186302/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshitaGujarathi)
 
