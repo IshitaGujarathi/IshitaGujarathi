@@ -228,15 +228,6 @@ Hands-on development experience gained through building and shipping full-stack 
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IshitaGujarathi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-
-</div>
-
----
 
 ## 🟣 Contribution Activity
 
@@ -247,15 +238,6 @@ Hands-on development experience gained through building and shipping full-stack 
 </div>
 
 ---
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IshitaGujarathi/IshitaGujarathi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
 
 ## 🟣 Current Focus
 
