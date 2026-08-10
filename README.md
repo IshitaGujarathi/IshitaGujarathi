@@ -236,17 +236,6 @@ Hands-on experience building and shipping secure, full-stack web applications en
 </div>
 
 ---
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IshitaGujarathi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
@@ -254,18 +243,6 @@ Hands-on experience building and shipping secure, full-stack web applications en
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshitaGujarathi&theme=react-dark&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IshitaGujarathi/IshitaGujarathi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> To activate this animation, add the `platane/snk` GitHub Action to a repository named `IshitaGujarathi/IshitaGujarathi` in your GitHub account.
 
 ---
 
