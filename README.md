@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6D28D9&height=260&section=header&text=Ishita%20Gujarathi&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6D28D9&height=260&section=header&text=Ishita%20Gujarathi&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+Scalable%2C+Production-Ready+Applications;Full+Stack+Developer+%7C+Problem+Solver;Final+Year+B.Tech+Computer+Engineering+%E2%80%A2+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;JWT+Auth+%7C+REST+APIs+%7C+PostgreSQL+%7C+Supabase;Exploring+AI%2FNLP+%7C+250%2B+DSA+Problems+Solved;Final+Year+B.Tech+Computer+Engineering+%E2%80%A2+2027" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![B.Tech Computer Engineering](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=0F0C29)
-![Final Year](https://img.shields.io/badge/Final%20Year-Batch%202027-8B5CF6?style=flat-square&labelColor=0F0C29)
-![Location](https://img.shields.io/badge/📍-India-A78BFA?style=flat-square&labelColor=0F0C29)
+![CGPA](https://img.shields.io/badge/CGPA-8.49%2F10-8B5CF6?style=flat-square&labelColor=0F0C29)
+![Final Year](https://img.shields.io/badge/Final%20Year-Batch%202027-A78BFA?style=flat-square&labelColor=0F0C29)
+![Location](https://img.shields.io/badge/📍-India-7C3AED?style=flat-square&labelColor=0F0C29)
 
 <br/>
 
@@ -34,17 +35,18 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
 
-I'm **Ishita Gujarathi**, a final-year **B.Tech Computer Engineering** student and **Java Full Stack Developer** who builds production-style software, not classroom exercises. My core strength is **backend engineering with Java and Spring Boot** — designing clean, layered architectures (Controller–Service–Repository) backed by **Spring Data JPA, Hibernate, and MySQL** — extended through **React.js** on the frontend and **RESTful API design** connecting the two.
+I'm **Ishita Gujarathi**, a final-year **B.Tech Computer Engineering** student and **Java Full Stack Developer** with hands-on experience building secure, end-to-end web applications. My core strength is **backend engineering with Java and Spring Boot** — designing layered, MVC-based architectures backed by **Spring Data JPA**, and securing them with **Spring Security and JWT-based authentication with role-based access control**. On the frontend, I build responsive, component-driven interfaces with **React.js**.
 
-I care about **clean architecture, scalable systems, and performance** as much as I care about shipping features. Every project I build follows Object-Oriented principles, structured data modeling, and maintainable code practices, with **Git/GitHub** as the backbone of my workflow.
+I care about **clean architecture, relational database design, and reliable RESTful APIs** as much as I care about shipping features — with production experience across **MySQL, PostgreSQL, and Supabase**. My problem-solving foundation runs deep: **250+ Data Structures & Algorithms problems solved** across LeetCode, HackerRank, and CodeChef, spanning arrays, trees, graphs, and dynamic programming.
 
-Beyond the stack I already ship in, I'm actively growing into **cloud-native and DevOps practices** (AWS, Docker, CI/CD) and exploring **AI/ML and Generative AI** — including prompt engineering — to stay aligned with where modern software engineering is heading. I'm also drawn to **open source**, and continuously sharpen my fundamentals through consistent DSA practice.
+I'm also expanding into **AI/ML and NLP**, applying working knowledge of **Python** and foundational machine learning concepts to real projects — including an AI-powered resume analysis tool currently in development. I approach engineering with a **product mindset**: build it secure, build it scalable, build it to last.
 
 **🎯 Open To:**
-- Software Engineering Internships
-- Full Stack Developer Roles
+- Software Engineer Roles
+- Java Full Stack Developer Roles
 - Backend Developer Roles
-- Java Developer Roles
+- AI/ML-Oriented Opportunities
+- Open Source Collaboration
 
 ---
 
@@ -54,27 +56,19 @@ Beyond the stack I already ship in, I'm actively growing into **cloud-native and
 
 **Languages**
 
-![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Vite](https://skillicons.dev/icons?i=vite)
+![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-**Backend**
+**Backend & Databases**
 
-![Spring](https://skillicons.dev/icons?i=spring) ![Hibernate](https://skillicons.dev/icons?i=hibernate)
+![Spring](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-**Databases**
+**Cloud, DevOps & Tooling**
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**Tools**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Maven](https://skillicons.dev/icons?i=maven) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea)
-
-**Cloud / DevOps**
-
-![AWS](https://skillicons.dev/icons?i=aws)(basics) ![Docker](https://skillicons.dev/icons?i=docker)(basics)
+![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Maven](https://skillicons.dev/icons?i=maven) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 
 </div>
 
@@ -86,11 +80,11 @@ Beyond the stack I already ship in, I'm actively growing into **cloud-native and
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Foundational understanding, actively deepening through applied study |
+| **Machine Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Foundational knowledge of core ML concepts |
+| **AI / NLP Techniques** | 🟣🟣⚪⚪⚪ | Applying NLP techniques to analyze and score resume content |
 | **Prompt Engineering** | 🟣🟣🟣⚪⚪ | AWS-certified — Foundations of Prompt Engineering |
-| **AI Applications** | 🟣🟣🟣⚪⚪ | AWS-certified — Generative AI: Art of the Possible |
-| **REST API Integration** | 🟣🟣🟣🟣⚪ | Building and consuming RESTful services across full-stack projects |
-| **Data Handling** | 🟣🟣🟣🟣⚪ | Structured data modeling and persistence with MySQL, JPA & Hibernate |
+| **Generative AI Concepts** | 🟣🟣🟣⚪⚪ | AWS-certified — Introduction to Generative AI: Art of the Possible |
+| **AI-Powered Application Development** | 🟣🟣🟣⚪⚪ | Building an AI-driven resume analysis platform end-to-end |
 
 </div>
 
@@ -99,57 +93,59 @@ Beyond the stack I already ship in, I'm actively growing into **cloud-native and
 ## 🟣 Featured Projects
 
 <details open>
-<summary><b>🎯 Placement Preparation Tracker</b></summary>
+<summary><b>🛍️ E-Commerce Platform</b></summary>
 <br/>
 
-A full-stack placement preparation platform built to help students organize interview readiness end-to-end — from DSA progress and projects to certifications and aptitude prep — inside a single, structured dashboard.
-
-**Key Features**
-- Secure user authentication with Spring Security
-- Centralized preparation dashboard
-- Placement & application tracking
-- Interview preparation checklist and progress management
-- RESTful APIs powering a decoupled React frontend
-- Persistent, structured data storage with MySQL
+A full-stack e-commerce application with a **React.js** frontend and **Spring Boot** backend, architected with MVC and layered design for maintainable, scalable code. Implements secure, role-specific access and complete product-to-checkout functionality.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | React · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MySQL · REST APIs |
-| **Architecture** | Decoupled frontend-backend design with a layered Controller–Service–Repository backend |
-| **Performance** | Efficient CRUD operations via JPA/Hibernate on optimized MySQL schemas |
-| **Security** | Authentication & access control implemented with Spring Security |
-| **Impact** | Centralizes and streamlines placement readiness tracking for students |
-| **Repository** | [GitHub →](https://github.com/IshitaGujarathi/Placement-Preparation-Tracker--Careerforge) |
-| **Deployment** | [Live Site →](https://placement-preparation-tracker-caree.vercel.app/login) |
+| **Stack** | React.js · Spring Boot · Spring Security · JWT · MySQL · Spring Data JPA · REST APIs · Maven |
+| **Scale** | Layered MVC architecture supporting product catalog, cart, and order management |
+| **Performance** | Optimized MySQL queries via Spring Data JPA for reliable, fast data persistence |
+| **Security** | JWT-based authentication with role-based access control (RBAC) via Spring Security |
+| **Impact** | Delivers a complete, secure shopping experience from browsing to checkout |
+| **Repository** | [GitHub →](https://github.com/IshitaGujarathi) |
 
-**Engineering Notes:** Backend built on Java, Spring Boot, and Spring Data JPA with Hibernate for ORM, exposing clean RESTful endpoints consumed by a responsive React.js frontend. Follows Object-Oriented Programming principles, layered architecture, and clean code practices to keep the system scalable and maintainable, with authentication handled via Spring Security.
+**Engineering Notes:** Built RESTful APIs with full CRUD functionality for products, cart, and orders, backed by a relational MySQL schema designed through Spring Data JPA. The React.js frontend uses reusable components across browsing, cart, and checkout flows, while Spring Security and JWT enforce secure, role-specific access throughout the application.
 
 </details>
 
 <details>
-<summary><b>🛒 Ecommerce Website</b></summary>
+<summary><b>🎯 AI-Powered Placement Preparation Tracker</b></summary>
 <br/>
 
-A responsive ecommerce frontend delivering a modern, streamlined shopping experience — from product discovery to cart management — built with reusable, component-driven React architecture.
-
-**Key Features**
-- Responsive, mobile-first UI
-- Product listing and browsing experience
-- Shopping cart functionality
-- Modern, component-based frontend architecture
-- Deployed and live on Vercel
+A full-stack placement preparation dashboard helping students track **DSA progress, certifications, projects, aptitude preparation, and interview readiness** in one centralized, real-time interface.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | React · JavaScript · CSS · Vercel |
-| **Architecture** | Component-driven, reusable React UI architecture |
-| **Performance** | Optimized rendering with a lightweight, fast-loading frontend |
-| **Security** | Client-side best practices for safe, stable UI interactions |
-| **Impact** | Delivers a smooth, modern shopping experience across devices |
-| **Repository** | [GitHub →](https://github.com/IshitaGujarathi/Ecommerce-Website) |
-| **Deployment** | [Live Site →]([https://ecommerce-website-ashy-psi.vercel.app/](https://ecommerce-website-ashy-psi.vercel.app/)) |
+| **Stack** | React.js · Spring Boot · Spring Data JPA · MySQL · REST APIs · Git |
+| **Scale** | Layered Controller–Service–Repository architecture for scalable data management |
+| **Performance** | MySQL schema supporting efficient CRUD operations across DSA topics, certifications & interview records |
+| **Security** | Structured, validated API access across all tracked modules |
+| **Impact** | Centralizes placement readiness into one real-time progress dashboard |
+| **Repository** | [GitHub →](https://github.com/IshitaGujarathi) |
 
-**Engineering Notes:** Built with React and modern JavaScript, structured around reusable components for product listings and cart interactions. Styled with custom CSS for a clean, responsive interface, and deployed on Vercel for fast, reliable delivery.
+**Engineering Notes:** Backend services built with Java, Spring Boot, and Spring Data JPA expose RESTful APIs consumed by a responsive React.js frontend featuring real-time progress tracking. The layered architecture keeps the codebase clean, maintainable, and easy to extend as new tracking modules are added.
+
+</details>
+
+<details>
+<summary><b>📄 Resume Analyzer</b> <i>(Under Development)</i></summary>
+<br/>
+
+An AI-powered Resume Analyzer that evaluates resumes against job descriptions, surfacing skill-matching insights, missing keywords, and targeted optimization recommendations.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React.js · Spring Boot · REST APIs · PostgreSQL · Supabase · AI/NLP |
+| **Scale** | End-to-end pipeline covering resume parsing, analysis, and automated reporting |
+| **Performance** | Structured, real-time data storage via PostgreSQL and Supabase |
+| **Security** | Secure resume data handling across parsing and analysis stages |
+| **Impact** | Helps candidates optimize resumes for stronger job-description alignment |
+| **Repository** | [GitHub →](https://github.com/IshitaGujarathi) |
+
+**Engineering Notes:** Built with React.js and Spring Boot for resume parsing, analysis, and automated report generation, using PostgreSQL and Supabase for structured, real-time storage. Incorporates AI/NLP techniques to analyze resume content and generate targeted, actionable optimization recommendations.
 
 </details>
 
@@ -157,19 +153,19 @@ A responsive ecommerce frontend delivering a modern, streamlined shopping experi
 
 ## 🟣 Experience
 
-**Software Engineering Projects** · *Academic Engineering Experience*
+**Software Engineering Projects** · *Full Stack Development Practice*
 `Sep 2023 – Present`
 
-Hands-on development experience gained through building and shipping full-stack applications end-to-end, applying industry-standard architectural patterns across every project.
+Hands-on experience building and shipping secure, full-stack web applications end to end — from relational schema design to authenticated REST APIs to responsive UI.
 
-- Engineered backend systems in Java with Spring Boot, Spring Data JPA, and Hibernate
-- Built responsive, component-based frontend interfaces with React.js
-- Designed and consumed RESTful APIs for structured client-server communication
-- Modeled and managed relational databases with MySQL
+- Designed secure authentication systems using Spring Security and JWT with role-based access control
+- Built RESTful services and layered (Controller–Service–Repository) backend architectures with Spring Boot
+- Designed relational database schemas across MySQL, PostgreSQL, and Supabase using Spring Data JPA
+- Developed responsive, component-driven frontend interfaces with React.js
+- Applied AI/NLP techniques to build an AI-powered resume analysis tool
 - Practiced consistent Git/GitHub workflows for version control and collaboration
-- Applied clean architecture and OOP principles to keep codebases scalable and maintainable
 
-`Java` `Spring Boot` `React.js` `MySQL` `REST APIs` `Git`
+`Java` `Spring Boot` `Spring Security` `React.js` `MySQL` `PostgreSQL` `REST APIs` `Git`
 
 ---
 
@@ -179,11 +175,11 @@ Hands-on development experience gained through building and shipping full-stack 
 
 | 🏆 Recognition | Details |
 |---|---|
-| Academic Achievement | Maintaining a strong 8.36/10 CGPA through 5 semesters of Computer Engineering |
-| Project Development | Shipped completed full-stack projects — Placement Preparation Tracker & Ecommerce Website |
-| GitHub Contributions | Actively building and maintaining public repositories |
-| DSA Progress | Consistent problem-solving practice to strengthen placement readiness |
-| Continuous Learning | Ongoing certifications across cloud, AI, and software engineering fundamentals |
+| DSA Problem Solving | Solved 250+ problems across LeetCode, HackerRank & CodeChef — arrays, trees, graphs, DP |
+| LeetCode Streak | Achieved a 100-day consecutive coding streak |
+| CodeChef Badges | Earned achievement badges through active competitive programming participation |
+| Academic Achievement | Maintaining a CGPA of 8.49/10 through 6 semesters of Computer Engineering |
+| Project Development | Shipped secure, full-stack projects spanning e-commerce, tracking, and AI/NLP applications |
 
 </div>
 
@@ -194,11 +190,24 @@ Hands-on development experience gained through building and shipping full-stack 
 **Amazon Web Services**
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Essentials-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Generative%20AI%3A%20Art%20of%20the%20Possible-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Prompt Engineering**
+**Microsoft (LinkedIn Learning)**
 
-![Prompt Engineering](https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
-![Generative AI](https://img.shields.io/badge/AWS-Generative%20AI%20%E2%80%93%20Art%20of%20the%20Possible-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Microsoft-Intro%20to%20Git-5B21B6?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Microsoft-Intro%20to%20GitHub-5B21B6?style=flat-square&logo=github&logoColor=white)
+
+**Infosys Springboard**
+
+![DSA](https://img.shields.io/badge/Infosys-Advanced%20Functional%20DSA-4C1D95?style=flat-square&logo=infosys&logoColor=white)
+![SQL](https://img.shields.io/badge/Infosys-Database%20%26%20SQL-4C1D95?style=flat-square&logo=infosys&logoColor=white)
+
+**IBM & HackerRank**
+
+![IBM](https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20DB%20101-6D28D9?style=flat-square&logo=ibm&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Basic)-8B5CF6?style=flat-square&logo=hackerrank&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-A78BFA?style=flat-square&logo=hackerrank&logoColor=white)
 
 ---
 
@@ -228,6 +237,15 @@ Hands-on development experience gained through building and shipping full-stack 
 
 ---
 
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IshitaGujarathi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
+
+</div>
+
+---
 
 ## 🟣 Contribution Activity
 
@@ -239,27 +257,38 @@ Hands-on development experience gained through building and shipping full-stack 
 
 ---
 
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IshitaGujarathi/IshitaGujarathi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> To activate this animation, add the `platane/snk` GitHub Action to a repository named `IshitaGujarathi/IshitaGujarathi` in your GitHub account.
+
+---
+
 ## 🟣 Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - Spring Boot (Advanced Concepts)
+    - Advanced Spring Security & JWT Patterns
+    - AI/NLP for Real-World Applications
     - System Design Fundamentals
-    - Docker
-    - AWS
-    - Data Structures & Algorithms
+    - PostgreSQL & Supabase at Scale
   building:
-    - Scalable Full Stack Applications (Java + React)
+    - Resume Analyzer (AI-Powered, React + Spring Boot + PostgreSQL/Supabase)
   exploring:
-    - AI in Software Engineering
-    - Backend Engineering Patterns
-    - Cloud-Native Deployment
+    - Machine Learning Fundamentals
+    - Generative AI in Software Engineering
+    - Cloud-Native Deployment on AWS
   open_to:
-    - Software Engineering Internship
-    - Java Developer Roles
+    - Software Engineer Roles
+    - Java Full Stack Developer Roles
     - Backend Developer Roles
-    - Full Stack Developer Roles
+    - AI/ML-Oriented Opportunities
 ```
 
 ---
@@ -278,7 +307,7 @@ current_focus:
 
 <div align="center">
 
-*"Clean architecture today is the scalability of tomorrow."*
+*"Secure by design, scalable by architecture — engineering that lasts."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
 
