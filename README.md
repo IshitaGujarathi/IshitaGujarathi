@@ -260,17 +260,6 @@ A virtual job simulation modeled on Deloitte's data analytics workflows, focused
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaGujarathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="49%"/>
 
 </div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IshitaGujarathi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-
-</div>
-
 ---
 
 ## 🟣 Contribution Activity
@@ -281,19 +270,6 @@ A virtual job simulation modeled on Deloitte's data analytics workflows, focused
 
 </div>
 
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IshitaGujarathi/IshitaGujarathi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> To activate this animation, add the `platane/snk` GitHub Action to a repository named `IshitaGujarathi/IshitaGujarathi` in your GitHub account.
-
----
 
 ## 🟣 Current Focus
 
