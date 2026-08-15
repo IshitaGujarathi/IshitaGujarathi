@@ -39,7 +39,7 @@ I'm **Ishita Gujarathi**, a final-year **B.Tech Computer Engineering** student a
 
 I care about **clean architecture, relational database design, and reliable RESTful APIs** as much as I care about shipping features — with production experience across **MySQL, PostgreSQL, and Supabase**. My problem-solving foundation runs deep: **250+ Data Structures & Algorithms problems solved** across LeetCode, HackerRank, and CodeChef, spanning arrays, trees, graphs, and dynamic programming.
 
-I'm also expanding into **AI/ML and NLP**, applying working knowledge of **Python** and foundational machine learning concepts to real projects — including an AI-powered resume analysis tool currently in development. I approach engineering with a **product mindset**: build it secure, build it scalable, build it to last.
+I'm also expanding into **AI/ML and NLP**, applying working knowledge of **Python** and foundational machine learning concepts to real projects — including an AI-powered resume analysis tool currently in development, and reinforced through a hands-on **AI/ML with Data Science internship**. I approach engineering with a **product mindset**: build it secure, build it scalable, build it to last.
 
 **🎯 Open To:**
 - Software Engineer Roles
@@ -80,7 +80,7 @@ I'm also expanding into **AI/ML and NLP**, applying working knowledge of **Pytho
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Foundational knowledge of core ML concepts |
+| **Machine Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Foundational knowledge reinforced through an AI/ML with Data Science internship |
 | **AI / NLP Techniques** | 🟣🟣⚪⚪⚪ | Applying NLP techniques to analyze and score resume content |
 | **Prompt Engineering** | 🟣🟣🟣⚪⚪ | AWS-certified — Foundations of Prompt Engineering |
 | **Generative AI Concepts** | 🟣🟣🟣⚪⚪ | AWS-certified — Introduction to Generative AI: Art of the Possible |
@@ -153,19 +153,45 @@ An AI-powered Resume Analyzer that evaluates resumes against job descriptions, s
 
 ## 🟣 Experience
 
-**Software Engineering Projects** · *Full Stack Development Practice*
-`Sep 2023 – Present`
+**AIML with Data Science Intern**
+**Ybi Foundation**
+`2 Weeks · Completed Jan 4, 2025`
 
-Hands-on experience building and shipping secure, full-stack web applications end to end — from relational schema design to authenticated REST APIs to responsive UI.
+A focused internship applying foundational AI/ML and Data Science concepts to hands-on exercises, strengthening practical understanding of machine learning workflows.
 
-- Designed secure authentication systems using Spring Security and JWT with role-based access control
-- Built RESTful services and layered (Controller–Service–Repository) backend architectures with Spring Boot
-- Designed relational database schemas across MySQL, PostgreSQL, and Supabase using Spring Data JPA
-- Developed responsive, component-driven frontend interfaces with React.js
-- Applied AI/NLP techniques to build an AI-powered resume analysis tool
-- Practiced consistent Git/GitHub workflows for version control and collaboration
+- Applied core Machine Learning and Data Science concepts to guided project work
+- Practiced data analysis and model-building fundamentals in a structured internship format
+- Built a practical foundation later applied to AI/NLP-driven project work
 
-`Java` `Spring Boot` `Spring Security` `React.js` `MySQL` `PostgreSQL` `REST APIs` `Git`
+`Machine Learning` `Data Science` `Python` `AI Fundamentals`
+
+<br/>
+
+**Solutions Architecture Job Simulation**
+**Amazon Web Services (via Forage)**
+`January 2026`
+
+A virtual job simulation replicating real-world AWS Solutions Architect responsibilities, focused on designing and reasoning about cloud infrastructure.
+
+- Worked through simulated cloud architecture design and infrastructure decision-making tasks
+- Applied AWS cloud fundamentals to practical, scenario-based problem solving
+- Strengthened understanding of scalable, cloud-native system design
+
+`AWS` `Cloud Architecture` `Solutions Design`
+
+<br/>
+
+**Data Analytics Job Simulation**
+**Deloitte (via Forage)**
+`March 2026`
+
+A virtual job simulation modeled on Deloitte's data analytics workflows, focused on translating data into actionable business insights.
+
+- Analyzed structured datasets to derive and communicate business insights
+- Practiced data-driven problem solving in a simulated consulting environment
+- Applied analytical thinking to real-world style business scenarios
+
+`Data Analytics` `SQL` `Business Insights`
 
 ---
 
@@ -179,7 +205,7 @@ Hands-on experience building and shipping secure, full-stack web applications en
 | LeetCode Streak | Achieved a 100-day consecutive coding streak |
 | CodeChef Badges | Earned achievement badges through active competitive programming participation |
 | Academic Achievement | Maintaining a CGPA of 8.49/10 through 6 semesters of Computer Engineering |
-| Project Development | Shipped secure, full-stack projects spanning e-commerce, tracking, and AI/NLP applications |
+| Job Simulations | Completed AWS Solutions Architecture and Deloitte Data Analytics job simulations via Forage |
 
 </div>
 
@@ -236,6 +262,17 @@ Hands-on experience building and shipping secure, full-stack web applications en
 </div>
 
 ---
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IshitaGujarathi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
+
+</div>
+
+---
+
 ## 🟣 Contribution Activity
 
 <div align="center">
@@ -243,6 +280,18 @@ Hands-on experience building and shipping secure, full-stack web applications en
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshitaGujarathi&theme=react-dark&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+---
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IshitaGujarathi/IshitaGujarathi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> To activate this animation, add the `platane/snk` GitHub Action to a repository named `IshitaGujarathi/IshitaGujarathi` in your GitHub account.
 
 ---
 
