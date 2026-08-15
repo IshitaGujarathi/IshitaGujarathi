@@ -260,6 +260,7 @@ A virtual job simulation modeled on Deloitte's data analytics workflows, focused
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaGujarathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="49%"/>
 
 </div>
+
 ---
 
 ## 🟣 Contribution Activity
@@ -269,6 +270,9 @@ A virtual job simulation modeled on Deloitte's data analytics workflows, focused
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshitaGujarathi&theme=react-dark&bg_color=0F0C29&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+---
+
 
 
 ## 🟣 Current Focus
@@ -291,6 +295,7 @@ current_focus:
     - Java Full Stack Developer Roles
     - Backend Developer Roles
     - AI/ML-Oriented Opportunities
+    - Data Engineering
 ```
 
 ---
